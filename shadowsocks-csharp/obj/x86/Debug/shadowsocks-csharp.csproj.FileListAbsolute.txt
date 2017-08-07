@@ -1,0 +1,106 @@
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\GlobalHotKey.dll
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\Newtonsoft.Json.dll
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\System.IO.dll
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.dll
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.Extensions.dll
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.Primitives.dll
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.WebRequest.dll
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Runtime.dll
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Threading.Tasks.dll
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\ThoughtWorks.QRCode.dll
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\Newtonsoft.Json.xml
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\System.IO.xml
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.xml
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.Extensions.xml
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.Primitives.xml
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.WebRequest.xml
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Runtime.xml
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Threading.Tasks.xml
+D:\New folder\rallets-windows-master\shadowsocks-csharp\obj\x86\Debug\shadowsocks-csharp.csproj.App.config
+D:\New folder\rallets-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.ConfigForm.resources
+D:\New folder\rallets-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.Properties.Resources.resources
+D:\New folder\rallets-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.CalculationControl.resources
+D:\New folder\rallets-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.HotkeySettingsForm.resources
+D:\New folder\rallets-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.LogForm.resources
+D:\New folder\rallets-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.LoginForm.resources
+D:\New folder\rallets-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.PaymentForm.resources
+D:\New folder\rallets-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.ProxyForm.resources
+D:\New folder\rallets-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.QRCodeForm.resources
+D:\New folder\rallets-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.StatisticsStrategyConfigurationForm.resources
+D:\New folder\rallets-windows-master\shadowsocks-csharp\obj\x86\Debug\shadowsocks-csharp.csproj.GenerateResource.Cache
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\Speedfast365-3.2.0.1.exe.config
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\Speedfast365-3.2.0.1.exe
+D:\New folder\rallets-windows-master\shadowsocks-csharp\bin\x86\Debug\Speedfast365-3.2.0.1.pdb
+D:\New folder\rallets-windows-master\shadowsocks-csharp\obj\x86\Debug\Speedfast365-3.2.0.1.exe
+D:\New folder\rallets-windows-master\shadowsocks-csharp\obj\x86\Debug\Speedfast365-3.2.0.1.pdb
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\Speedfast365-3.2.0.1.exe.config
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Speedfast365-3.2.0.1.exe
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Speedfast365-3.2.0.1.pdb
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\Speedfast365-3.2.0.1.exe
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\Speedfast365-3.2.0.1.pdb
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\GlobalHotKey.dll
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\Newtonsoft.Json.dll
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.IO.dll
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.dll
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.Extensions.dll
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.Primitives.dll
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.WebRequest.dll
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Runtime.dll
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Threading.Tasks.dll
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\ThoughtWorks.QRCode.dll
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\Newtonsoft.Json.xml
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.IO.xml
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.xml
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.Extensions.xml
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.Primitives.xml
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.WebRequest.xml
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Runtime.xml
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Threading.Tasks.xml
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\shadowsocks-csharp.csproj.App.config
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.ConfigForm.resources
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.Properties.Resources.resources
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.CalculationControl.resources
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.HotkeySettingsForm.resources
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.LogForm.resources
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.LoginForm.resources
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.PaymentForm.resources
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.ProxyForm.resources
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.QRCodeForm.resources
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.StatisticsStrategyConfigurationForm.resources
+D:\New folder\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\shadowsocks-csharp.csproj.GenerateResource.Cache
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\Speedfast365-3.3.0.1.exe.config
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\Speedfast365-3.3.0.1.exe
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\Speedfast365-3.3.0.1.pdb
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\GlobalHotKey.dll
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\Newtonsoft.Json.dll
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.IO.dll
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.dll
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.Extensions.dll
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.Primitives.dll
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.WebRequest.dll
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Runtime.dll
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Threading.Tasks.dll
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\ThoughtWorks.QRCode.dll
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\Newtonsoft.Json.xml
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.IO.xml
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.xml
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.Extensions.xml
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.Primitives.xml
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Net.Http.WebRequest.xml
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Runtime.xml
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\bin\x86\Debug\System.Threading.Tasks.xml
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\shadowsocks-csharp.csproj.App.config
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\shadowsocks-csharp.csprojResolveAssemblyReference.cache
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.ConfigForm.resources
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.Properties.Resources.resources
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.CalculationControl.resources
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.HotkeySettingsForm.resources
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.LogForm.resources
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.LoginForm.resources
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.PaymentForm.resources
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.ProxyForm.resources
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.QRCodeForm.resources
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Shadowsocks.View.StatisticsStrategyConfigurationForm.resources
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\shadowsocks-csharp.csproj.GenerateResource.Cache
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Speedfast365-3.3.0.1.exe
+D:\develop_win\speedfast365-3.2.0.1.source\speedfast365-windows-master\shadowsocks-csharp\obj\x86\Debug\Speedfast365-3.3.0.1.pdb

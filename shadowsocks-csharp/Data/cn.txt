@@ -1,0 +1,170 @@
+# translation for Simplified Chinese
+
+Shadowsocks=Shadowsocks
+
+# Menu items
+
+Mode=系统代理模式
+Servers=服务器
+Statistics Config...=统计配置...
+Start on Boot=开机启动
+Forward Proxy...=正向代理设置...
+Allow Clients from LAN=允许来自局域网的连接
+Local PAC=使用本地 PAC
+Online PAC=使用在线 PAC
+Edit Local PAC File...=编辑本地 PAC 文件...
+Update Local PAC from Speedfast365=从 Speedfast365 更新本地 PAC
+Edit User Rule for Speedfast365...=编辑 Speedfast365 的用户规则...
+Show QRCode...=显示二维码...
+Scan QRCode from Screen...=扫描屏幕上的二维码...
+Availability Statistics=统计可用性
+Show Logs...=显示日志...
+Verbose Logging=详细记录日志
+Updates...=更新...
+Check for Updates...=检查更新
+Check for Updates at Startup=启动时检查更新
+Edit Hotkeys...=编辑快捷键...
+Load Balance=负载均衡
+High Availability=高可用
+Choose by statistics=根据统计
+
+# Config Form
+
+&Delete=删除(&D)
+Dupli&cate=复制(&C)
+Server=服务器
+Server Port=服务器端口
+Password=密码
+Encryption=加密
+Proxy Port=代理端口
+Remarks=备注
+Timeout(Sec)=超时(秒)
+Onetime Authentication=一次性认证
+OK=确定
+Cancel=取消
+New server=未配置的服务器
+Move &Up=上移(&U)
+Move D&own=下移(&O)
+
+# Proxy Form
+
+Edit Proxy=代理设置
+Use Proxy=使用代理
+Proxy Type=代理类型
+Proxy Addr=代理地址
+Proxy Port=代理端口
+
+# Log Form
+
+&File=文件(&F)
+&Open Location=在资源管理器中打开(&O)
+E&xit=退出(&X)
+&View=视图(&V)
+&Clean Logs=清空日志(&C)
+Change &Font=设置字体(&F)
+&Wrap Text=自动换行(&W)
+&Top Most=置顶(&T)
+&Show Toolbar=显示工具栏(&S)
+Log Viewer=日志查看器
+Inbound=入站
+Outbound=出站
+
+# QRCode Form
+
+QRCode=二维码
+
+# PAC Url Form
+
+Edit Online PAC URL=编辑在线 PAC 网址
+Edit Online PAC URL...=编辑在线 PAC 网址...
+Please input PAC Url=请输入 PAC 网址
+
+# HotkeySettings Form
+
+Switch system proxy=切换系统代理状态
+Switch system proxy mode=切换系统代理模式
+Switch share over LAN=切换局域网共享
+Show Logs=显示日志
+Switch to prev server=切换上个服务器
+Switch to next server=切换下个服务器
+Reg All=注册全部热键
+
+# Messages
+
+Port already in use=端口已被占用
+Illegal port number format=非法端口格式
+Illegal timeout format=非法超时格式
+Please add at least one server=请添加至少一个服务器
+Server IP can not be blank=服务器 IP 不能为空
+Password can not be blank=密码不能为空
+Port out of range=端口超出范围
+Port can't be 8123=端口不能为 8123
+Speedfast365 \{0\} Update Found=Speedfast365 {0} 更新
+No update is available=没有可用的更新
+Click here to update=点击这里升级
+Speedfast365 is here=Speedfast365 在这里
+You can turn on/off Speedfast365 in the context menu=可以在右键菜单中开关 Speedfast365
+System Proxy Enabled=系统代理已启用
+System Proxy Disabled=系统代理未启用
+Failed to update PAC file =更新 PAC 文件失败
+PAC updated=更新 PAC 成功
+No updates found. Please report to Speedfast365 if you have problems with it.=未发现更新。如有问题请提交给 Speedfast365。
+No QRCode found. Try to zoom in or move it to the center of the screen.=未发现二维码，尝试把它放大或移动到靠近屏幕中间的位置
+Speedfast365 is already running.=Speedfast365 已经在运行。
+Find Speedfast365 icon in your notify tray.=请在任务栏里寻找 Speedfast365 图标。
+If you want to start multiple Speedfast365, make a copy in another directory.=如果想同时启动多个Speedfast365，可以另外复制一份到别的目录。
+Failed to decode QRCode=无法解析二维码
+Failed to update registry=无法修改注册表
+System Proxy On: =系统代理已启用：
+Running: Port {0}=正在运行：端口 {0}
+Unexpected error, Speedfast365 will exit. Please report to=非预期错误，Speedfast365。请提交此错误到
+Unsupported operating system, use Windows Vista at least.=不支持的操作系统版本，最低需求为Windows Vista。
+Unsupported .NET Framework, please update to 4.6.2 or later.=当前 .NET Framework 版本过低，请升级至4.6.2或更新版本。
+Proxy request failed=代理请求失败
+Proxy handshake failed=代理握手失败
+Register hotkey failed=注册热键失败
+Cannot parse hotkey: {0}=解析热键失败: {0}
+Timeout is invalid, it should not exceed {0}=超时无效，不应超过 {0}
+
+# For Rallets
+Speedfast365=Speedfast365
+Enable System Proxy=开启系统代理
+Disable System Proxy=关闭系统代理
+Smart Mode=智能模式
+Global Mode=全局模式
+About Speedfast365=关于Speedfast365加速
+Logout=登出
+Login=登录
+Username=用户名
+Password=密码
+Speedfast365 Error: {0}=Speedfast365 错误: {0}
+Welcome to Speedfast365=欢迎使用Speedfast365加速
+has a new version=有新版本
+click OK button to download the newest=点击确定按钮下载最新版本
+has a new version!=有新版本啦!
+You have logged out=您已登出
+Email or Mobile Number=邮箱/手机号码
+Connecting server, please wait...=连接服务器中，请稍后...
+Left Traffic=剩余流量
+Premium=极速
+Traffic Info Loading...=流量信息加载中...
+Server is not available, please report this issue to {0}=服务器无法连接，请发送邮件至{0}汇报该错
+Server is busy, please try login later=服务器正繁忙，请稍后尝试登录
+More Settings And Info=更多配置和信息
+Updates Rallets=更新Speedfast365加速
+Logs=日志
+Select Server=选择服务器
+Server Selection Mode=服务器选择模式
+Server List Successfully Updated=服务器列表更新成功
+Speedfast365 Need Recharge=Speedfast365需要充值
+Quit=退出程序
+Account=账户
+User Manual=用户手册
+Signup=注册
+Find Password=找回密码
+Buy Service=购买服务
+My Profile=我的主页
+Disable=关闭
+Enable=开启
+Speedfast365 has changed your Proxy settings, closing it may block you from some sites, it is recommended to turn it off before closing it=Speedfast365加速已经修改了代理设置，直接退出会让你无法访问某些网站，建议先关闭加速器
+Speedfast365 has encountered an issue about system configuration, please repair it by downloading "Speedfast365-Config.bat" and running it in Administrator Mode. After that, restart Speedfast365.=Speedfast365加速遇到一个跟系统配置相关的问题，请下载"Speedfast365-Config.bat"并以管理员模式运行以修复系统配置。然后，重启Speedfast365加速。
